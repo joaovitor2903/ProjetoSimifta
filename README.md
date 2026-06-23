@@ -16,9 +16,13 @@ O modelo visa apoiar a gestão do turismo sustentável através do cálculo de u
 Para que o código funcione corretamente, a raiz do projeto deve conter a seguinte estrutura:
 
 PROJETO_RAIZ/
-├── dataset/                  # Pasta com todos os ficheiros .csv
+
+├── dataset/   # Pasta com todos os ficheiros .csv
+
 ├── notebooks/                # Ficheiros .ipynb
+
 ├── README.md
+
 └── requirements.txt
 
 ### 2. Dependências
